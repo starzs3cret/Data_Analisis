@@ -3,6 +3,7 @@
 Data Analyst Career Track (Python)
 
 - DQlab_Data_Analisis.ipynb
+
 Python for Data Professional Beginner - Part 1
 Python for Data Professional Beginner - Part 2
 Python for Data Professional Beginner - Part 3
